@@ -1,0 +1,5 @@
+taskPack\BookTest.class
+utility\ObjectBox.class
+utility\TestBase.class
+pojos\Book.class
+utility\ConfigReader.class

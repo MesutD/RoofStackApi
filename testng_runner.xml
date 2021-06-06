@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RoofStack Automation" verbose="1">
+    <test name="RoofStack Api Test">
+        <classes>
+            <class name="taskPack.BookTest"></class>
+        </classes>
+    </test>
+</suite>
